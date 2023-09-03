@@ -1,0 +1,28 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ffe29c;
+}
+
+#projects {
+  background-color: #ffe29c;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.navbar {
+  font-family: sans-serif;
+}
+
+.saya {
+  font-size: 24px;
+  font-weight: bold;
+  padding-top: 5rem;
+}
+
+.as {
+  font-size: 36px;
+  font-weight: bold;
+}
+
